@@ -52,7 +52,7 @@ bfd_token = ""
 dboats_token = ""
 
 # Sentry URL
-sentry_url = ""
+sentry_url = os.getenv("SENTRYURL")
 
 # Whether the bot is for testing, if true, stats and errors will not be posted
 testing = Dev
