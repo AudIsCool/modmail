@@ -63,8 +63,8 @@ ipc_channel = ""
 # Postgres database credentials
 database = {
     "database": "t3modmail",
-    "user": "t3modbot",
-    "password": os.getenv("DBPASSWORD"),
+    "user": "postgres",
+    "password": None,
     "host": "",
     "port": 5432,
 }
