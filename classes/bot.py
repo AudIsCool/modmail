@@ -99,7 +99,7 @@ class ModMail(commands.AutoShardedBot):
     async def start_bot(self):
         await self.connect_redis()
         await self.connect_postgres()
-        await self.connect_prometheus()
+        #await self.connect_prometheus()
         for extension in self.config.initial_extensions:
             try:
                 self.load_extension(extension)
