@@ -79,7 +79,7 @@ additional_shards = 0
 default_prefix = "="
 
 # The server to send tickets to, no confirmation messages if set
-default_server = 768286301190619177
+default_server = 795005332945764423
 
 # Status of the bot
 activity = f"DM to Contact Staff | {default_prefix}help"
@@ -119,7 +119,7 @@ event_channel = 795079305326624789
 admin_channel = 795079305326624789
 
 # This is where patron roles are at
-main_server = 768286301190619177    
+main_server = 795005332945764423    
 
 # Patron roles for premium servers
 premium1 = None
