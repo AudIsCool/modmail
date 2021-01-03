@@ -79,7 +79,7 @@ additional_shards = 0
 default_prefix = "="
 
 # The server to send tickets to, no confirmation messages if set
-default_server = 795005332945764423
+default_server = 768286301190619177
 
 # Status of the bot
 activity = f"DM to Contact Staff | {default_prefix}help"
